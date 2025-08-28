@@ -71,7 +71,7 @@
         section.innerHTML = `<h2>${headerText}</h2>`;
         for (const img of images) {
           const el = document.createElement("img");
-          el.src = `https://raw.githubusercontent.com/${repo}/main/${img.path}`;
+          el.src = `https://raw.githubusercontent.com/${repo}/develop/${img.path}`;
           el.alt = img.name;
           section.appendChild(el);
         }
