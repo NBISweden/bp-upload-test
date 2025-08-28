@@ -1,0 +1,700 @@
+1: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 1)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.23
+user 6.50
+sys 0.60
+2: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 2)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.08
+user 6.94
+sys 0.76
+3: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 3)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.74
+user 6.72
+sys 0.74
+4: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 4)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.04
+user 6.59
+sys 0.74
+5: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 5)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.09
+user 7.04
+sys 0.70
+6: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 6)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.90
+user 7.03
+sys 0.73
+7: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 7)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.71
+user 7.31
+sys 0.79
+8: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 8)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.51
+user 6.59
+sys 0.64
+9: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 9)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.96
+user 6.58
+sys 0.79
+10: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 10)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.27
+user 6.41
+sys 0.69
+11: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 11)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.74
+user 7.05
+sys 0.78
+12: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 12)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.46
+user 6.67
+sys 0.64
+13: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 13)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.38
+user 6.56
+sys 0.74
+14: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 14)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.99
+user 6.58
+sys 0.67
+15: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 15)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.22
+user 6.87
+sys 0.66
+16: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 16)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.22
+user 6.63
+sys 0.76
+17: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 17)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.63
+user 6.93
+sys 0.58
+18: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 18)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.27
+user 6.64
+sys 0.74
+19: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 19)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.72
+user 6.84
+sys 0.64
+20: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 20)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.59
+user 6.63
+sys 0.74
+21: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 21)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.25
+user 7.67
+sys 0.86
+22: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 22)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.10
+user 7.20
+sys 0.70
+23: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 23)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.84
+user 7.05
+sys 0.77
+24: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 24)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.49
+user 7.16
+sys 0.77
+25: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 25)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.81
+user 6.87
+sys 0.68
+26: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 26)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.45
+user 6.92
+sys 0.74
+27: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 27)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.42
+user 6.69
+sys 0.66
+28: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 28)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.28
+user 6.72
+sys 0.76
+29: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 29)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.49
+user 6.92
+sys 0.85
+30: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 30)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.80
+user 6.90
+sys 0.58
+31: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 31)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.15
+user 6.49
+sys 0.75
+32: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 32)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.91
+user 6.74
+sys 0.82
+33: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 33)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.32
+user 6.61
+sys 0.65
+34: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 34)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.04
+user 6.98
+sys 0.86
+35: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 35)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 15.43
+user 6.56
+sys 0.76
+36: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 36)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.01
+user 6.09
+sys 0.74
+37: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 37)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 8.96
+user 6.30
+sys 0.65
+38: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 38)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.86
+user 6.72
+sys 0.61
+39: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 39)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.90
+user 7.74
+sys 0.74
+40: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 40)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.86
+user 6.28
+sys 0.69
+41: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 41)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.32
+user 6.72
+sys 0.70
+42: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 42)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.66
+user 6.91
+sys 0.68
+43: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 43)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.65
+user 6.91
+sys 0.80
+44: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 44)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.27
+user 7.57
+sys 0.83
+45: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 45)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.77
+user 6.78
+sys 0.68
+46: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 46)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.24
+user 6.99
+sys 0.81
+47: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 47)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.51
+user 7.16
+sys 0.76
+48: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 48)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.75
+user 6.73
+sys 0.69
+49: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 49)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.64
+user 7.26
+sys 0.76
+50: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 50)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.87
+user 7.00
+sys 0.83
+51: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 51)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.37
+user 6.69
+sys 0.60
+52: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 52)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.64
+user 6.62
+sys 0.72
+53: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 53)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.86
+user 6.96
+sys 0.71
+54: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 54)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.61
+user 6.91
+sys 0.80
+55: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 55)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.63
+user 6.63
+sys 0.64
+56: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 56)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.85
+user 6.77
+sys 0.72
+57: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 57)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.92
+user 7.04
+sys 0.74
+58: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 58)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.80
+user 6.35
+sys 0.59
+59: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 59)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.10
+user 6.24
+sys 0.62
+60: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 60)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.33
+user 6.49
+sys 0.64
+61: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 61)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.66
+user 7.09
+sys 0.70
+62: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 62)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.58
+user 6.97
+sys 0.61
+63: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 63)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.94
+user 7.47
+sys 0.80
+64: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 64)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.03
+user 6.50
+sys 0.80
+65: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 65)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.64
+user 5.75
+sys 0.72
+66: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 66)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.02
+user 6.70
+sys 0.77
+67: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 67)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.60
+user 6.89
+sys 0.75
+68: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 68)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.90
+user 6.89
+sys 0.86
+69: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 69)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.86
+user 7.09
+sys 0.72
+70: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 70)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.50
+user 6.51
+sys 0.60
+71: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 71)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.07
+user 6.71
+sys 0.70
+72: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 72)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.85
+user 7.09
+sys 0.74
+73: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 73)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.25
+user 7.05
+sys 0.71
+74: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 74)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.67
+user 6.87
+sys 0.73
+75: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 75)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.77
+user 6.75
+sys 0.74
+76: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 76)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.11
+user 7.40
+sys 0.80
+77: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 77)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.62
+user 6.59
+sys 0.74
+78: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 78)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.48
+user 6.53
+sys 0.79
+79: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 79)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.53
+user 6.75
+sys 0.71
+80: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 80)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.48
+user 6.84
+sys 0.77
+81: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 81)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.45
+user 6.79
+sys 0.75
+82: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 82)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.40
+user 6.04
+sys 0.69
+83: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 83)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.52
+user 6.90
+sys 0.86
+84: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 84)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.37
+user 6.48
+sys 0.64
+85: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 85)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.77
+user 6.91
+sys 0.74
+86: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 86)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 12.87
+user 6.95
+sys 0.70
+87: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 87)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.22
+user 6.92
+sys 0.71
+88: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 88)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.90
+user 6.37
+sys 0.62
+89: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 89)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.16
+user 7.21
+sys 0.72
+90: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 90)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.77
+user 7.05
+sys 0.83
+91: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 91)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.79
+user 7.10
+sys 0.77
+92: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 92)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.03
+user 7.00
+sys 0.70
+93: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 93)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.34
+user 6.52
+sys 0.74
+94: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 94)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.91
+user 6.79
+sys 0.71
+95: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 95)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.58
+user 6.63
+sys 0.66
+96: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 96)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.22
+user 6.56
+sys 0.75
+97: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 97)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 10.25
+user 7.02
+sys 0.69
+98: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 98)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.80
+user 6.78
+sys 0.85
+99: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 99)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 9.73
+user 6.12
+sys 0.65
+100: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 100)
+The provided access token expires on Sat, 27 Sep 2025 13:59:42 CEST.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+force-overwrite flag provided, continuing by overwritting target...
+real 11.17
+user 6.96
+sys 0.78
