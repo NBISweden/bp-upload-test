@@ -1,0 +1,800 @@
+1: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 1)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_1.bin.c4gh
+real 11.83
+user 8.95
+sys 1.43
+2: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 2)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_2.bin.c4gh
+real 11.53
+user 9.06
+sys 1.39
+3: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 3)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_3.bin.c4gh
+real 10.74
+user 9.04
+sys 1.31
+4: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 4)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_4.bin.c4gh
+real 11.70
+user 8.91
+sys 1.18
+5: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 5)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_5.bin.c4gh
+real 11.03
+user 8.89
+sys 1.23
+6: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 6)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_6.bin.c4gh
+real 11.80
+user 9.05
+sys 1.33
+7: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 7)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_7.bin.c4gh
+real 10.65
+user 8.86
+sys 1.35
+8: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 8)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_8.bin.c4gh
+real 11.35
+user 9.16
+sys 1.45
+9: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 9)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_9.bin.c4gh
+real 10.96
+user 9.02
+sys 1.15
+10: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 10)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_10.bin.c4gh
+real 12.57
+user 8.86
+sys 1.32
+11: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 11)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_11.bin.c4gh
+real 11.05
+user 8.92
+sys 1.06
+12: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 12)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_12.bin.c4gh
+real 11.16
+user 8.91
+sys 0.98
+13: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 13)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_13.bin.c4gh
+real 953.29
+user 9.27
+sys 1.40
+14: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 14)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_14.bin.c4gh
+real 11.53
+user 8.96
+sys 1.44
+15: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 15)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_15.bin.c4gh
+real 11.28
+user 9.07
+sys 1.52
+16: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 16)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_16.bin.c4gh
+real 11.44
+user 9.09
+sys 1.36
+17: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 17)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_17.bin.c4gh
+real 11.17
+user 8.90
+sys 1.20
+18: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 18)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_18.bin.c4gh
+real 11.20
+user 9.18
+sys 1.42
+19: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 19)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_19.bin.c4gh
+real 10.68
+user 8.94
+sys 1.20
+20: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 20)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_20.bin.c4gh
+real 11.42
+user 9.20
+sys 1.38
+21: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 21)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_21.bin.c4gh
+real 10.91
+user 9.06
+sys 1.15
+22: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 22)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_22.bin.c4gh
+real 11.49
+user 9.03
+sys 1.18
+23: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 23)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_23.bin.c4gh
+real 11.14
+user 8.92
+sys 1.31
+24: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 24)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_24.bin.c4gh
+real 11.13
+user 8.98
+sys 1.09
+25: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 25)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_25.bin.c4gh
+real 11.26
+user 8.93
+sys 1.19
+26: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 26)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_26.bin.c4gh
+real 10.91
+user 8.90
+sys 1.20
+27: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 27)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_27.bin.c4gh
+real 11.52
+user 9.11
+sys 1.36
+28: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 28)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_28.bin.c4gh
+real 11.56
+user 8.93
+sys 1.35
+29: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 29)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_29.bin.c4gh
+real 11.16
+user 8.83
+sys 1.19
+30: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 30)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_30.bin.c4gh
+real 11.35
+user 9.03
+sys 1.14
+31: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 31)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_31.bin.c4gh
+real 11.27
+user 8.85
+sys 1.14
+32: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 32)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_32.bin.c4gh
+real 11.08
+user 8.81
+sys 1.26
+33: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 33)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_33.bin.c4gh
+real 11.61
+user 9.13
+sys 1.32
+34: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 34)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_34.bin.c4gh
+real 11.29
+user 8.95
+sys 1.17
+35: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 35)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_35.bin.c4gh
+real 11.32
+user 8.80
+sys 1.08
+36: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 36)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_36.bin.c4gh
+real 11.50
+user 8.88
+sys 1.38
+37: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 37)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_37.bin.c4gh
+real 10.97
+user 8.82
+sys 1.08
+38: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 38)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_38.bin.c4gh
+real 11.03
+user 9.09
+sys 1.37
+39: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 39)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_39.bin.c4gh
+real 11.24
+user 9.36
+sys 1.31
+40: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 40)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_40.bin.c4gh
+real 11.22
+user 9.09
+sys 1.56
+41: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 41)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_41.bin.c4gh
+real 11.69
+user 8.84
+sys 1.36
+42: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 42)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_42.bin.c4gh
+real 10.94
+user 8.91
+sys 0.97
+43: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 43)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_43.bin.c4gh
+real 11.15
+user 9.04
+sys 1.20
+44: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 44)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_44.bin.c4gh
+real 11.06
+user 9.00
+sys 1.37
+45: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 45)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_45.bin.c4gh
+real 11.22
+user 8.96
+sys 1.27
+46: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 46)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_46.bin.c4gh
+real 11.17
+user 8.98
+sys 1.23
+47: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 47)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_47.bin.c4gh
+real 11.05
+user 8.96
+sys 1.33
+48: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 48)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_48.bin.c4gh
+real 11.15
+user 8.90
+sys 1.31
+49: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 49)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_49.bin.c4gh
+real 11.59
+user 8.81
+sys 1.07
+50: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 50)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_50.bin.c4gh
+real 11.36
+user 8.97
+sys 1.25
+51: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 51)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_51.bin.c4gh
+real 11.13
+user 9.05
+sys 1.32
+52: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 52)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_52.bin.c4gh
+real 10.98
+user 8.94
+sys 1.18
+53: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 53)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_53.bin.c4gh
+real 11.36
+user 9.09
+sys 1.36
+54: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 54)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_54.bin.c4gh
+real 11.49
+user 8.92
+sys 1.17
+55: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 55)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_55.bin.c4gh
+real 11.50
+user 8.74
+sys 1.35
+56: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 56)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_56.bin.c4gh
+real 11.41
+user 8.93
+sys 1.36
+57: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 57)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_57.bin.c4gh
+real 11.43
+user 9.14
+sys 1.38
+58: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 58)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_58.bin.c4gh
+real 11.56
+user 9.09
+sys 1.44
+59: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 59)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_59.bin.c4gh
+real 11.96
+user 8.95
+sys 1.17
+60: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 60)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_60.bin.c4gh
+real 11.31
+user 8.86
+sys 1.11
+61: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 61)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_61.bin.c4gh
+real 11.16
+user 8.82
+sys 1.19
+62: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 62)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_62.bin.c4gh
+real 11.68
+user 8.91
+sys 1.04
+63: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 63)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_63.bin.c4gh
+real 11.55
+user 8.96
+sys 1.32
+64: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 64)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_64.bin.c4gh
+real 11.17
+user 8.89
+sys 1.14
+65: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 65)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_65.bin.c4gh
+real 11.01
+user 9.13
+sys 1.45
+66: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 66)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_66.bin.c4gh
+real 11.31
+user 9.08
+sys 1.29
+67: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 67)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_67.bin.c4gh
+real 11.03
+user 8.73
+sys 1.39
+68: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 68)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_68.bin.c4gh
+real 11.18
+user 8.64
+sys 1.25
+69: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 69)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_69.bin.c4gh
+real 11.31
+user 9.11
+sys 1.13
+70: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 70)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_70.bin.c4gh
+real 10.98
+user 9.05
+sys 1.08
+71: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 71)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_71.bin.c4gh
+real 11.36
+user 9.05
+sys 1.18
+72: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 72)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_72.bin.c4gh
+real 11.23
+user 9.01
+sys 1.24
+73: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 73)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_73.bin.c4gh
+real 11.20
+user 8.62
+sys 1.21
+74: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 74)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_74.bin.c4gh
+real 11.34
+user 8.99
+sys 1.55
+75: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 75)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_75.bin.c4gh
+real 10.97
+user 8.96
+sys 1.25
+76: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 76)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_76.bin.c4gh
+real 11.13
+user 8.84
+sys 1.07
+77: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 77)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_77.bin.c4gh
+real 11.23
+user 8.92
+sys 1.28
+78: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 78)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_78.bin.c4gh
+real 11.67
+user 8.98
+sys 1.19
+79: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 79)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_79.bin.c4gh
+real 11.78
+user 8.89
+sys 1.32
+80: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 80)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_80.bin.c4gh
+real 10.80
+user 8.69
+sys 0.97
+81: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 81)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_81.bin.c4gh
+real 11.50
+user 8.91
+sys 1.26
+82: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 82)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_82.bin.c4gh
+real 10.81
+user 8.66
+sys 1.17
+83: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 83)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_83.bin.c4gh
+real 11.29
+user 8.95
+sys 1.15
+84: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 84)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_84.bin.c4gh
+real 11.25
+user 8.92
+sys 1.17
+85: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 85)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_85.bin.c4gh
+real 11.13
+user 8.82
+sys 1.16
+86: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 86)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_86.bin.c4gh
+real 11.75
+user 9.30
+sys 1.25
+87: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 87)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_87.bin.c4gh
+real 11.20
+user 9.06
+sys 1.25
+88: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 88)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_88.bin.c4gh
+real 11.43
+user 8.87
+sys 1.12
+89: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 89)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_89.bin.c4gh
+real 11.31
+user 8.90
+sys 1.20
+90: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 90)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_90.bin.c4gh
+real 11.37
+user 8.82
+sys 1.19
+91: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 91)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_91.bin.c4gh
+real 11.42
+user 8.87
+sys 1.38
+92: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 92)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_92.bin.c4gh
+real 11.10
+user 9.02
+sys 1.33
+93: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 93)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_93.bin.c4gh
+real 11.48
+user 9.00
+sys 1.22
+94: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 94)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_94.bin.c4gh
+real 11.58
+user 9.04
+sys 1.41
+95: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 95)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_95.bin.c4gh
+real 11.73
+user 8.90
+sys 1.21
+96: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 96)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_96.bin.c4gh
+real 11.77
+user 9.03
+sys 1.20
+97: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 97)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_97.bin.c4gh
+real 11.07
+user 8.94
+sys 1.31
+98: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 98)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_98.bin.c4gh
+real 11.33
+user 8.96
+sys 1.31
+99: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 99)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_99.bin.c4gh
+real 11.29
+user 9.01
+sys 1.40
+100: Uploading /data3/tmp/dirt1/datasets/200M/file_200M.bin (iteration 100)
+The provided access token expires on Wed, 25 Feb 2026 17:08:54 CET.
+Remote server (host_base): https://staging-inbox.bp.nbis.se
+Generating encryption key
+file uploaded to https://staging-inbox.bp.nbis.se/1a8755401d7d26ef96966e2e4da7c826cb905c60_lifescience-ri.eu/testupload-sda-cli-200M-004bdbd3-d817-4739-bfed-d35cc82325c7/file_200M_100.bin.c4gh
+real 11.45
+user 9.19
+sys 1.49
